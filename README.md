@@ -19,7 +19,7 @@ Para ejemplificar el uso de Adaptative Boosting en Python, implementaremos un mo
 - matplotlib versión 3.3.2
 - sklearn versión 1.2.0
 
-## Notebook
+## Notebook y Documentación
 
 >El notebook desarrollado se encuentra [Aquí](./https://github.com/larayl/Identificacion-de-Spam-con-AdaBoostClassifier/blob/main/Identificacion_de_Spam_con_AdaboostClassifier.ipynb)
 >
