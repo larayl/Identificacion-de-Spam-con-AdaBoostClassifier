@@ -12,3 +12,10 @@ Para ejemplificar el uso de Adaptative Boosting en Python, implementaremos un mo
 
 ## Guía de Instalación
 
+El notebook tiene todas las librerías a utilizar, las cuales son de libre uso. 
+
+## Notebook
+
+El notebook desarrollado se encuentra [Aquí](./advanced_solutions.ipynb)
+
+El detalle del https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
