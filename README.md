@@ -12,7 +12,12 @@ Para ejemplificar el uso de Adaptative Boosting en Python, implementaremos un mo
 
 ## Guía de Instalación
 
-El notebook tiene todas las librerías a utilizar, las cuales son de libre uso. 
+>Todas las librerías a utilizar son de libre uso. 
+
+- pandas
+- numpy
+- matplotlib
+- sklearn
 
 ## Notebook
 
