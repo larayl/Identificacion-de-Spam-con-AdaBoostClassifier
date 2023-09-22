@@ -17,5 +17,7 @@ El notebook tiene todas las librerías a utilizar, las cuales son de libre uso.
 ## Notebook
 
 El notebook desarrollado se encuentra [Aquí](./https://github.com/larayl/Identificacion-de-Spam-con-AdaBoostClassifier/blob/main/Identificacion_de_Spam_con_AdaboostClassifier.ipynb)
+Para su ejecución solo necesita descargarlo junto con el archivo csv que se encuentra [Aquí](https://github.com/larayl/Identificacion-de-Spam-con-AdaBoostClassifier/blob/main/spamdata_esl_colnames.csv)
 
-El detalle del https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+
+El detalle del  https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
