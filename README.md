@@ -12,12 +12,12 @@ Para ejemplificar el uso de Adaptative Boosting en Python, implementaremos un mo
 
 ## Guía de Instalación
 
->Todas las librerías a utilizar son de libre uso. 
+>Todas las librerías a utilizar son de libre uso. Las versiones utilizadas son las siguientes: 
 
-- pandas
-- numpy
-- matplotlib
-- sklearn
+- pandas versión 1.1.3
+- numpy versión 1.23.3
+- matplotlib versión 3.3.2
+- sklearn versión 1.2.0
 
 ## Notebook
 
@@ -26,3 +26,9 @@ Para ejemplificar el uso de Adaptative Boosting en Python, implementaremos un mo
 >Para su ejecución solo necesita descargarlo junto con el archivo csv que se encuentra [Aquí](https://github.com/larayl/Identificacion-de-Spam-con-AdaBoostClassifier/blob/main/spamdata_esl_colnames.csv)
 >
 >El detalle de la librería sklearn.ensemble.AdaBoostClassifier lo puede encontrar en: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+>
+>El detalle de la librería pandas lo puede encontrar en: https://pandas.pydata.org/docs/user_guide/index.html
+>
+>El detalle de la librería numpy lo puede encontrar en: https://numpy.org/doc/stable/
+>
+>El detalle de la librería matplotlib lo puede encontrar en: https://matplotlib.org/stable/index.html
