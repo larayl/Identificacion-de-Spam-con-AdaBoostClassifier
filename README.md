@@ -8,7 +8,7 @@
 ## Abstract
 
 El objetivo de este tutorial es implementar un algoritmo de clasificación basado en Boosting, AdaBoostClassifier, con scikit-learn. 
-Para ejemplificar el uso de Adaptative Boosting en Python, implementaremos un modelo que busca predecir si un mail especifico corresponde o no a spam dadas ciertas caracteristicas del texto y compararemos su desempeño con otros modelos de clasificación.
+Para ejemplificar el uso de Adaptative Boosting en Python, implementaremos un modelo que busca predecir si un mail especifico corresponde o no a spam dadas ciertas caracteristicas del texto y compararemos su desempeño contra otros modelos de clasificación.
 
 ## Guía de Instalación
 
